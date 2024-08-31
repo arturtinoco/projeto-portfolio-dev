@@ -30,22 +30,22 @@
     font: var(--text-sm);
 }
 
-.main-red {
-    filter: invert(62%) sepia(55%) saturate(7459%) hue-rotate(328deg) brightness(119%) contrast(78%);
+.red {
+    filter: invert(32%) sepia(55%) saturate(7459%) hue-rotate(328deg) brightness(119%) contrast(78%); /*invert(62%) before, but too dark*/
 }
 
-.main-purple {
+.purple {
     filter: invert(54%) sepia(26%) saturate(1358%) hue-rotate(228deg) brightness(98%) contrast(87%);
 }
 
-.main-blue {
-    filter: invert(69%) sepia(42%) saturate(6653%) hue-rotate(181deg) brightness(93%) contrast(84%);
+.blue {
+    filter: invert(39%) sepia(42%) saturate(6653%) hue-rotate(181deg) brightness(93%) contrast(84%); /*invert(69%) before, but too dark*/
 }
 
-.main-green {
-    filter: invert(82%) sepia(8%) saturate(3736%) hue-rotate(41deg) brightness(94%) contrast(62%);
+.green {
+    filter: invert(19%) sepia(64%) saturate(393%) hue-rotate(48deg) brightness(90%) contrast(80%); /*invert(69%) before, but too dark*/
 }
 
-.main-yellow {
-    filter: invert(70%) sepia(100%) saturate(280%) hue-rotate(348deg) brightness(99%) contrast(85%);
+.yellow {
+    filter: invert(20%) sepia(100%) saturate(290%) hue-rotate(348deg) brightness(99%) contrast(85%); /*invert(70%) before, but too dark*/
 }
