@@ -51,4 +51,22 @@ body {
 
 .heading {
     gap: 1rem;
+    text-align: center;
+
+    h2 {
+        color: var(--gray-600);
+    }
+}
+
+.card {
+    gap: 1.25rem;
+    background-color: var(--gray-300);
+    border-radius: .75rem;
+    padding: .75rem;
+
+    img {
+        width: 19.125rem;
+        height: 9.75rem;
+        border-radius: .5rem;
+    }
 }

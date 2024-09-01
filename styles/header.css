@@ -25,6 +25,15 @@
     & > div {
         gap: 1.5rem;
     }
+
+    h1 {
+        color: var(--gray-600);
+    }
+
+    p:nth-child(2) {
+        color: var(--gray-400);
+    }
+
 }
 
 #tag-list {
