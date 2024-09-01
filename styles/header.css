@@ -16,6 +16,7 @@
 #top-header {
     gap: 3.5rem;
     max-width: 42.5rem;
+    margin-inline: auto;
 
     img {
         margin-inline: auto;
@@ -24,4 +25,8 @@
     & > div {
         gap: 1.5rem;
     }
+}
+
+#tag-list {
+    gap: 1rem;
 }
