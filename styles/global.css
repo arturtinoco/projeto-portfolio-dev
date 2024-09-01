@@ -48,3 +48,7 @@ body {
     padding: .5rem 1.5rem;
     border-radius: 999px;
 }
+
+.heading {
+    gap: 1rem;
+}
