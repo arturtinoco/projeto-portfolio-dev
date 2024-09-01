@@ -33,4 +33,9 @@ body {
 .container {
     max-width: 85.375rem;
     margin-inline: auto;
+    justify-content: center;
+}
+
+.title {
+    gap: .5rem;
 }

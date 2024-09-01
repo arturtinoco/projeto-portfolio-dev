@@ -1,0 +1,27 @@
+#intro {
+    gap: 5.875rem;
+    background: url(../assets/images/Background_Intro.png) no-repeat center center/cover;
+    text-align: center;
+    margin-top: 120px;
+
+    img {
+        margin-inline: auto;
+    }
+}
+
+#info {
+    gap: 5rem;
+}
+
+#top-header {
+    gap: 3.5rem;
+    max-width: 42.5rem;
+
+    img {
+        margin-inline: auto;
+    }
+
+    & > div {
+        gap: 1.5rem;
+    }
+}
