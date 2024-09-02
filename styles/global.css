@@ -28,10 +28,12 @@
 body {
     background-color: var(--gray-200);
     color: var(--gray-500);
+    width: 100%;
 }
 
 .container {
-    max-width: 85.375rem;
+    min-width: 85.375rem;
+    max-width: 100%;
     margin-inline: auto;
     justify-content: center;
 }

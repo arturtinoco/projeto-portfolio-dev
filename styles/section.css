@@ -15,8 +15,8 @@
 }
 
 #services {
-    justify-content: center;
     gap: 3.5rem;
+    min-width: 0;
     background-color: var(--gray-100);
     padding: 5.5rem 7.5rem 7.5rem;
 
@@ -51,9 +51,7 @@
 #contact {
     gap: 3rem;
     background: url(../assets/images/Background_Contacts.png) no-repeat center top/cover;
-    min-width: 1455px;
-    max-width: 1456px;
-    min-height: 50rem;
+    height: 50rem;
     padding-top: 8rem;
     padding-inline: 12.5rem;
     margin-inline: auto;
