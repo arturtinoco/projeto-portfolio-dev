@@ -1,10 +1,10 @@
 # 🗟 Projeto Portfólio Dev 🗟
 Desafio prático desenvolvido durante Formação Full-Stack promovida pela Rocketseat
-
+___
 ## 🗃️ Layout direcionado para páginas de portfólio profissional
 
 <img src=".gitconfig/portfolio-dev-preview.jpg">
-
+___
 ### 🤖 Tecnologias e Recursos  
   
 * HTML
