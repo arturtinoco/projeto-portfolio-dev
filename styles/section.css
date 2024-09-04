@@ -70,6 +70,7 @@
         gap: .75rem;
         width: 25rem;
         background-color: var(--gray-300);
+        border: 1.5px solid transparent;
         border-radius: .5rem;
         padding: 1.25rem;
 
@@ -79,6 +80,14 @@
 
         img:nth-child(3) {
             justify-self: end;
+        }
+
+        &:hover {
+            border-color: var(--main-blue);
+
+            img {
+                filter: invert(39%) sepia(42%) saturate(6653%) hue-rotate(181deg) brightness(93%) contrast(84%);
+            }
         }
     }
 }

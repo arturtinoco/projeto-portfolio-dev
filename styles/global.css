@@ -63,6 +63,7 @@ body {
 .card {
     gap: 1.25rem;
     background-color: var(--gray-300);
+    border: 1.5px solid transparent;
     border-radius: .75rem;
     padding: .75rem;
 
@@ -70,5 +71,9 @@ body {
         width: 19.125rem;
         height: 9.75rem;
         border-radius: .5rem;
+    }
+
+    &:hover {
+        border-color: var(--gray-400);
     }
 }
