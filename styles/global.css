@@ -77,3 +77,8 @@ body {
         border-color: var(--gray-400);
     }
 }
+
+a {
+    text-decoration: none;
+    color: var(--gray-500);
+}
