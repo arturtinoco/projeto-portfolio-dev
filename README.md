@@ -3,7 +3,7 @@ Desafio prático desenvolvido durante Formação Full-Stack promovida pela Rocke
 ___
 ## 🗃️ Layout direcionado para páginas de portfólio profissional
 
-<img src=".gitconfig/portfolio-dev-preview.jpg">  
+![Gif de demonstração do Portfólio Dev](.gitconfig/portfolio-dev-preview.gif)
   
 ___
 ### 🤖 Tecnologias e Recursos  
